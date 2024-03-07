@@ -12,3 +12,9 @@ For DevTools Lab Token Test
 **Jenkins**
 - Username: 64070025
 - Password: Pear64070025
+
+**Allow permission for Docker on Jenkins** (Week13 Lab3)
+- sudo usermod -aG docker $USER
+- sudo groupadd docker
+- sudo chmod 666 /var/run/docker.sock
+![image](https://github.com/PR-800/YEAR3-DevTools/assets/88496264/2a6a83e2-7bf9-40cc-a323-cf286def4bc1)
