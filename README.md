@@ -8,3 +8,7 @@ For DevTools Lab Token Test
 - git config --global --unset user.name
 - git config --global --unset user.email
 - git remote remove origin
+
+**Jenkins**
+- Username: 64070025
+- Password: Pear64070025
